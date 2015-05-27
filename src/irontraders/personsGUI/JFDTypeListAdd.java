@@ -117,7 +117,7 @@ public class JFDTypeListAdd extends javax.swing.JDialog {
 
     private void btnOKActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnOKActionPerformed
         if (validar()) {
-            
+            this.dispose();
         }
     }//GEN-LAST:event_btnOKActionPerformed
 

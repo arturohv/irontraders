@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="taranis" match-schema="public"/>
+  <table-filter match-name="document_status"/>
+  <table-filter match-name="address_type"/>
+  <table-filter match-name="product_classification"/>
+  <table-filter match-name="measure_unit"/>
+  <table-filter match-name="category"/>
+  <table-filter match-name="document_type"/>
+  <table-filter match-name="order_detail"/>
+  <table-filter match-name="invoice_header"/>
+  <table-filter match-name="person_type"/>
+  <table-filter match-name="user"/>
+  <table-filter match-name="price_list_product"/>
+  <table-filter match-name="role"/>
+  <table-filter match-name="person_address"/>
+  <table-filter match-name="category_class"/>
+  <table-filter match-name="inventory"/>
+  <table-filter match-name="main_menu"/>
+  <table-filter match-name="person"/>
+  <table-filter match-name="role_permission"/>
+  <table-filter match-name="person_phones"/>
+  <table-filter match-name="tax_group"/>
+  <table-filter match-name="product"/>
+  <table-filter match-name="product_type"/>
+  <table-filter match-name="product_images"/>
+  <table-filter match-name="customer"/>
+  <table-filter match-name="permission"/>
+  <table-filter match-name="stock_level_product"/>
+  <table-filter match-name="phone_type"/>
+  <table-filter match-name="price_list_type"/>
+  <table-filter match-name="role_user"/>
+  <table-filter match-name="store"/>
+  <table-filter match-name="order_header"/>
+  <table-filter match-name="tax_type"/>
+  <table-filter match-name="invoice_detail"/>
+</hibernate-reverse-engineering>
